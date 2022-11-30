@@ -1,0 +1,1 @@
+# pipeline-stage-options-skipdefaultcheckout
